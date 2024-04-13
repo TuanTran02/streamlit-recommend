@@ -1,4 +1,4 @@
-openxlpy
+openpylx
 requests
 streamlit
 streamlit_option_menu
